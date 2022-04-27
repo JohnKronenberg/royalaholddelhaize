@@ -1,0 +1,2 @@
+# royalaholddelhaize
+subdomain takeover
